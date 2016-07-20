@@ -1,0 +1,15 @@
+"homepage": "http://minecraft.curseforge.com/projects/modrops/files",
+  "promos": {
+    "1.8-latest": "md-v-0.2.4-mc1.8-RELEASE-Final",
+    "1.8-recommended": "md-v-0.2.4-mc1.8-RELEASE-Final",
+    "1.8.9-latest": "md-v-0.3.0_2mc1.8.9-RELEASE.jar",
+    "1.8.9-recommended": "md-v-0.3.0_2mc1.8.9-RELEASE.jar",
+    "1.10-latest": "0.5.1",
+    "1.10-recommended": "0.5.1"
+  },
+  "{MinecraftVersion}: {
+    "1.10: {
+        "0.5.1": "Added netherrack drop for nether quartz ore. Fixed the adaptive egg recipe. Started work on the custom villager: Biomaker.
+Mostly done but has only four trades."
+    }
+  }
