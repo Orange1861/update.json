@@ -1,9 +1,7 @@
 "homepage": "http://minecraft.curseforge.com/projects/modrops/files",
   "promos": {
-    "1.8-latest": "md-v-0.2.4-mc1.8-RELEASE-Final",
-    "1.8-recommended": "md-v-0.2.4-mc1.8-RELEASE-Final",
-    "1.8.9-latest": "md-v-0.3.0_2mc1.8.9-RELEASE.jar",
-    "1.8.9-recommended": "md-v-0.3.0_2mc1.8.9-RELEASE.jar",
+    "1.8.9-latest": "0.3.0_2",
+    "1.8.9-recommended": "0.3.0_2",
     "1.10-latest": "0.5.1",
     "1.10-recommended": "0.5.1"
   },
