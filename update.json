@@ -2,10 +2,10 @@
   "promos": {
     "1.8.9-latest": "0.3.0_2",
     "1.8.9-recommended": "0.3.0_2",
-    "1.10-latest": "0.5.3",
-    "1.10-recommended": "0.5.3",
-    "1.10.2-latest": "0.5.2",
-    "1.10.2-recommended": "0.5.2"
+    "1.10-latest": "0.5.6",
+    "1.10-recommended": "0.5.6",
+    "1.10.2-latest": "0.5.6",
+    "1.10.2-recommended": "0.5.6"
   },
   "{MinecraftVersion}: {
     "1.10: {
