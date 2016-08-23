@@ -3,9 +3,11 @@
 	"promos": {
 		"1.8.9-latest": "0.3.0_2",
 		"1.8.9-recommended": "0.3.0_2",
-		"1.10-latest": "0.5.6",
-		"1.10-recommended": "0.5.6",
-		"1.10.2-latest": "0.5.6",
-		"1.10.2-recommended": "0.5.6"
+		"1.9.4-latest": "0.5.7",
+		"1.9.4-recommended": "0.5.7",
+		"1.10-latest": "0.5.7",
+		"1.10-recommended": "0.5.7",
+		"1.10.2-latest": "0.5.7",
+		"1.10.2-recommended": "0.5.7"
 	}
 }
